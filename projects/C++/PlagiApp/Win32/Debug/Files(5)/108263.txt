@@ -1,0 +1,15 @@
+7
+Jz(*){e=;}
+Jz(*,AA,AA,I&){O(ln[A][A]l){[A][A]=;=;}O(ln[A][A]l){[A][A]=;=;}A=;M(A=;A<;Aa){M(A=;A<;Aa){Ap[A][A];}O(Al){=;}O(Al*){=;}A=;}M(A=;A<;Aa){M(A=;A<;Aa){Ap[A][A];}O(Al){=;}O(Al*){=;}A=;}M(A=;A<;Aa){Ap[A][A];}O(Al){=;}O(Al*){=;}A=;M(A=;A<;Aa){Ap[--A][A];}O(Al){=;}O(Al*){=;}A=;/*O([][]+[][]+[][]lo[][]+[][]+[][]l){=;}O([][]+[][]+[][]l*o[][]+[][]+[][]l*){=;}*/}
+Jz(*,AA,AA,&,){([A][A]){:{ee(e(A,A),e,);;}:{ee(e(A,A),e,);;}}O(l){c;e=;=;}O(l){c;e=;=;}}
+Jz(*){e=;M(A=;A<;Aa)M(A=;A<;Aa)[A][A]=;ec;}
+Jz(*){e=;=;ec;ec;A=e;A=e;=(,,A,A);=(e);e=*/;e=*/;e=;e=;M(A=;A<;Aa)M(A=;A<;Aa)[A][A]=;}
+Jz(*){c;M(A=;A<;Aa)M(A=;A<;Aa)h[A][A]h;.c;}
+Jz(*){Oc;M(A=;A<;Aa)M(A=;A<;Aa)i[A][A];.c;ec;}
+Jz((*)){ee=;
+Jz((*,*,A,AAA,A,AAA,I,I&I&)){OO(l(lnn[AA][][AA]l]l)){[{[AA][][A[A]]=;;=;;}OO(l(lnn[AA][][AA]l]l)){[{[AA][][A[A]]=;;=;;}AA=;=;MM(AA=;=;AA<;<;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)){A{App[AA][][AA];;}OO(A(AlAl)l){{=;;}OO(A(All*)*){{=;;}AA=;;}MM(AA=;=;AA<;<;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)){A{App[AA][][AA];;}OO(A(AlAl)l){{=;;}OO(A(All*)*){{=;;}AA=;;}MM(AA=;=;AA<;<;A;AaAa)){A{App[AA][][AA];;}OO(A(AlAl)l){{=;;}OO(A(All*)*){{=;;}AA=;=;MM(AA=;=;AA<;<;A;AaAa)){A{ApAp[p[---AA][][AA];;}OO(A(AlAl)l){{=;;}OO(A(All*)*){{=;;}AA=;;/*/*O*O(O([[][][]]+[[][][]]+[[][[]l]lolo[[][][]]+[[][][]]+[[][[]l]l)l){{=;;}O}O(O([[][][]]+[[][][]]+[[][[]ll*o*o[[][][]]+[[][][]]+[[][[]ll*)*){{=;=;};}**/}
+Jz((*,*,A,AAA,A,AAA,&,&,&,)){(([AA][][AA])){::{e{eee(ee(AA,AA),),e,e,,););;;}::{e{eee(ee(AA,AA),),e,e,,););;;;}}}OO(l(l)){cc;ee=;;=;;}OO(l(l)){cc;ee=;;=;=;}
+Jz((*)){ee=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;AaAa))[AA][][A[A]]=;=;e;ecec;
+Jz((*)){ee=;;=;=;e;ecc;e;ecc;AA=ee;AA=e=e;;=(=(,(,,,,AA,AA);;=(=(ee););e;e=e=**/;/;e;e=e=**/;/;ee=;=;ee=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;AaAa))[AA][][A[A]]=;
+Jz((*)){cc;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)hh[AA][][AA]h]h;;.c.c;
+Jz((*)){O{Occ;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)ii[AA][][AA];;.cc;e;ecec;

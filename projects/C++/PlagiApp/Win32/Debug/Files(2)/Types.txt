@@ -1,0 +1,20 @@
+///Function_types///
+unsignedshortint signedshortint unsignedlongint signedlongint unsignedlonglongint signedlonglongint longlongint longint unsignedint signedint shortint int float long longlong unsignedlonglong signedlonglong unsignedlong signedlong double longdouble short unsigned signed
+char unsignedchar signedchar
+string
+void
+bool
+///Variable_types///
+unsignedshortint signedshortint unsignedlongint signedlongint unsignedlonglongint signedlonglongint longlongint longint unsignedint signedint shortint int
+unsignedlonglong signedlonglong unsignedlong signedlong longlong long
+double longdouble
+char unsignedchar signedchar
+float
+string
+short
+signed unsigned
+bool
+///Fword_types///
+void struct class for while if else new delete return do continue const make_pair push_back
+///Operator_types///
+++ -- () [] -> .* ->* << >> <= >= == != && || += -= *= /= %= <<= >>= &= |= ^= ::

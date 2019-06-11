@@ -1,0 +1,11 @@
+5
+A(AA,AA,A=){S(B)A*A%A;}
+A(AA,AA,A=){A=;N(A>){O(A&){A=(A,A,A);}A=(A,A,A);Ai=;}S;}
+A(A){S(A,-);}
+Ac{/*A=;M(A=;Aj;Aa){A=(A,Aj:(Aj:(Aj:(Aj:))));(A,A);}A(,A);*/A=;A=;M(A=;A<;Aa){A=(A,);(A,);A=(A,,-);(A,,-);[A]=(A,A,A);}(,);=;=c;A(,A.);S;}
+J(A&A,AA,A=){ApA;O(AkA){AqA;}}
+(AAA,A,AAA,AA=)){SS(BB)AA*AA%A%A;
+(AAA,A,AAA,AA=)){AA=;=;NN(AA>)){OO(A(A&A&)){AA=(=(AA,AA,AA);;}AA=(=(AA,AA,AA););A;Aii=;;}S}S;
+A(A(A)){SS(A(A,,-)-);
+Ac{{/*/*AA=;=;MM(AA=;=;A;Ajj;A;AaAa)){AA=(=(AA,A,AjAj::(A(AjAj::(A(AjAj::(A(AjAj:j:):)))))));;(AA,AA);;}AA(,(,AA););**/AA=;=;AA=;=;MM(AA=;=;AA<;<;A;AaAa)){AA=(=(A(A,,);;(A(A,,););AA=(=(A(A,A,,,-)-);;(A(A,A,,,-)-);;[A[A]]=(=(AA,AA,AA);;}(}(,,);;=;;=cc;AA(,(,A,A..););S;S;
+J(AA&AA,A,AAA,AA=)){AApAA;OO(AAkAkA)){AAqAqA;A;}

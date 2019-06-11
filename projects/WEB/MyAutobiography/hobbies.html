@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Mike's Blog | Autobiography | My city</title>
+	<link href="Font.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	<script type="text/javascript" src="JQuery.js"></script>
+	<script src="script.js"></script>
+</head>
+
+<body alink="#008080" vlink="#b5b5b5" link="#b5b5b5">
+
+	<a name="up"></a>
+
+	<div class="loaderArea">
+	   <div class="loader"><br><br><br><br><br>Loading...</div>
+	</div>
+
+	<header>		
+	 	<a href="index.html""><img class="home" src="home.png" title="Home page" alt="Home" style="z-index: 40;"/></a>	
+	</header>
+
+	<section id="home">
+		<nav class="navi__bar" style="width: 100%; background-color: #F5F5F5; top: 0; right: 0; border-style: none;">
+			<ul class="menu_list">
+				<a href="my_city.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span>Мой город</span>
+							</div>
+						</div>
+					</li>
+				</a>
+				<a href="education.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span>Образование</span>
+							</div>
+						</div>
+					</li>
+				</a>
+				<a href="hobbies.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span><font color="orange">Увлечения</font></span>
+							</div>
+						</div>
+					</li>
+				</a>
+			</ul>
+		</nav>
+	</section>
+	<div style="position: relative;height: 12%; top: 0; width: 100%;"></div>
+	<section class="myTable" id="myTable" style="position: absolute; top: 12%;">
+		<table cellspacing="20px;">
+			<th style="font-size: 50px;" colspan="2">
+				<i>Мои увлечения</i>
+			</th>
+			<tr>
+				<td colspan="2"  background="img/back.jpg">
+					<p align="center">
+						Теперь Вы можете перемещаться по странице с помощью удобного и яркого графического меню!
+					</p>
+
+					<center><img id="mapMenu" class="mapMenu" src="img/map.png" width="30%" height="auto" usemap="#map"></center>
+				    <map name="map" id="map" onmouseenter="f1();" onmouseleave="f2();">
+					    <area target="" alt="Travelling" title="Travelling" href="#travelling" coords="2,87,107,26,198,86,201,147,97,206,95,253,1,192" shape="poly">
+					    <area target="" alt="Sport" title="Sport" href="#sport" coords="199,87,306,25,397,87,399,194,293,253,290,206,198,146" shape="poly">
+					    <area target="" alt="IT" title="IT" href="#it" coords="96,203,201,148,293,207,293,314,187,374,97,315" shape="poly">
+					</map>
+					<a name="it"></a>
+				</td>
+			</tr>
+			<tr><td><br><br><br></td></tr>
+			<th style="font-size: 50px;" colspan="2">
+				<i>Информатика</i>
+				<hr>
+			</th>
+			<tr>
+				<td>
+					<table border="10px" style="border-style: inset;">
+						<tr>
+							<td><img src="img/belsef.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/alg.gif" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+						<tr>
+							<td><img src="img/ml.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/cer.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+					</table>
+				</td>
+				<td>
+					Наверное, моим главным увлечением является информатика и вообще современные технологии. Больше всего я интересуюсь сферой искусственного интеллекта (AI) и новыми направлениями в использовании машинного обучения. Также мне нравится изучать различные алгоритмы, решать задачки (в том числе математические) и, конечно же, проектировать веб-сайты на HTML:)
+					В 11 классе я участвовал в Республиканской конференции в секции информатики, где занял вместе с напарником 1 место. Также наш проект PlagiApp принимал участие в BelSEF 2017.
+					Я планирую развиваться дальше, участвовать в новых проектах, так как это то, чем я люблю заниматься.
+				</td>
+			</tr>
+			<tr><td><br><a name="travelling"></a><br><br></td></tr>
+			<th style="font-size: 50px;" colspan="2">
+				<i>Путешествия</i>
+				<hr>
+			</th>
+			<tr>
+				<td>
+					Еще я обожаю путешествовать. Причем неважно как, неважно куда. Главное - это приключения, новые ощущения, ну и хорошее настроение. Люблю фотографировать (особенно природу). Очень хочу побывать в Лондоне и Париже. 					
+				</td>
+				<td>
+					<table border="10px" style="border-style: inset;">
+						<tr>
+							<td><img src="img/amst.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/liv.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+						<tr>
+							<td><img src="img/stre.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/flo.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<th style="font-size: 50px;" colspan="2">
+				<a name="sport"></a><br>
+				<i>Спорт</i>
+				<hr>
+			</th>
+			<tr>
+				<td>
+					<table border="10px" style="border-style: inset;">
+						<tr>
+							<td><img src="img/w1.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/w2.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+						<tr>
+							<td><img src="img/w3.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td><img src="img/w4.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+						</tr>
+						<tr>
+							<td><img src="img/w5.jpg" width="100%" height="auto" alt="no" class="tableImg"></td>
+							<td>&nbsp;</td>
+						</tr>
+					</table>
+				</td>
+				<td>
+					Я полностью согласен с высказыванием "О спорт, ты жизнь!" С детства папа учил меня ездить на велосипеде, кататься на лыжах, подтягиваться, плавать. Сейчас я как никогда понимаю, как важен для человека здоровый образ жизни. Как говорится, в здоровом теле - здоровый дух.
+					Хочу рассказать о моем, наверное, любимом виде спорта - Стрит Воркауте. И хоть не все еще сегодня знают про воркаут, однако это направление стало не менее популярным, чем спортивная гимнастика. Приведу некоторые определения:
+					<br><br>
+					<dl>
+						<dt><i>Воркаут — </i></dt>
+						<dd>
+							это уличная гимнастика, которая включает в себя выполнение различных упражнений на уличных спортплощадках, а именно на турниках, брусьях, шведских стенках, рукоходах и прочих конструкциях, или вообще без их использования (на земле). Основной акцент делается на работу с собственным весом и развитием силы и выносливости. 
+						</dd>
+						<dt><i>Фитнес — </i></dt>
+						<dd>
+							это общая физическая подготовленность организма человека.
+						</dd>
+						<dt><i>Культуризм — </i></dt>
+						<dd>
+							процесс наращивания и развития мускулатуры, путём занятия физическими упражнениями с отягощениями и высокоэнергетического питания, с повышенным содержанием питательных веществ, в частности, белков, достаточным для гипертрофии скелетных мышц.
+						</dd>
+					</dl>					
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="font-size: 15px;"><hr><center><hr>© Mikhail Kitikov 2018-2019</center></td>
+			</tr>
+		</table>
+	</section>
+
+		<div class="scrollUp" id="upArrow">
+			<a href="#up"><img src="img/up.png" title="Scroll up" alt="upArrow"></a>
+		</div>
+
+</body>
+
+</html>
+	

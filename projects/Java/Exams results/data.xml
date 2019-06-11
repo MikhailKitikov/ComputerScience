@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SessionDatabase SYSTEM "validateXML.dtd">
+
+<SessionDatabase>
+
+	<SessionEntry>
+		<recordBookNumber>1723244</recordBookNumber>
+		<surname>Arkin</surname>
+		<semester>2</semester>
+		<subject>Math</subject>
+		<mark>1</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723278</recordBookNumber>
+		<surname>Berkin</surname>
+		<semester>4</semester>
+		<subject>Math</subject>
+		<mark>2</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723213</recordBookNumber>
+		<surname>Cerkin</surname>
+		<semester>2</semester>
+		<subject>Math</subject>
+		<mark>4</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723225</recordBookNumber>
+		<surname>Gerkin</surname>
+		<semester>3</semester>
+		<subject>Math</subject>
+		<mark>3</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723225</recordBookNumber>
+		<surname>Gerkina</surname>
+		<semester>3</semester>
+		<subject>Biology</subject>
+		<mark>1</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723248</recordBookNumber>
+		<surname>Ferkin</surname>
+		<semester>1</semester>
+		<subject>Math</subject>
+		<mark>1</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723267</recordBookNumber>
+		<surname>Erkin</surname>
+		<semester>4</semester>
+		<subject>Math</subject>
+		<mark>2</mark>
+	</SessionEntry>
+
+	<SessionEntry>
+		<recordBookNumber>1723219</recordBookNumber>
+		<surname>Derkin</surname>
+		<semester>2</semester>
+		<subject>Biology</subject>
+		<mark>3</mark>
+	</SessionEntry>
+
+</SessionDatabase>

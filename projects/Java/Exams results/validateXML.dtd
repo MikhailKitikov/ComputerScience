@@ -1,0 +1,7 @@
+<!ELEMENT SessionDatabase (SessionEntry*)>
+<!ELEMENT SessionEntry (recordBookNumber, surname, semester, subject, mark)>
+<!ELEMENT recordBookNumber (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT mark (#PCDATA)>

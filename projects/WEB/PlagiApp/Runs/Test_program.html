@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Summary table</title>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="../SystemFiles/Styles/Styles.css" type="text/css">
+    <!-- <script type="text/javascript" src="SystemFiles/Scripts/Update.js"></script> -->
+</head>
+<body background="../SystemFiles/Textures/back.png">
+<div class="bottom_layer">
+    <div class="head_block">
+      <p class="tagline"><font color="navy" face="Consolas">C++ source code antiplagiarism system</font></p>
+      <a href="../Main/SummaryTable.html"><div class="SiteName_block"><font size="+3" color="royalblue" face="Century Gothic"><font color="navy">Plagi</font>App</font></div></a>
+    </div>
+    <div class="separating_block">
+        <h class="contest_name" id="contest_name"><font size="+1" color="azure" face="Century Gothic">VK Cup 2017</font></h>
+    </div>
+    <div class="main_block">
+        <h1 align="center"><font size="+2" color="navy" face="Century Gothic" style="font-weight: lighter;">Run 001</font></h1>
+    <font color="navy" size="+1">
+    <div class="run_block">
+        <div class="source_code">
+            <pre>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+   int n; cin >> n;
+   int m = 0, p = 0, i = 0, j;
+   while(i <= 1000 && p == 0)
+   {
+       i++;
+       m = (i*n+1);
+       for(j=2; j*j<=m; j++)
+           if(m%j == 0)
+           {
+               p = 1;
+               break;
+           }
+   }
+   cout << i;
+   return 0;
+}
+            </pre>
+        </div>
+    </div>
+    </font>
+    <p style="position: absolute; left: 5%;"><a href="../Main/SummaryTable.html"><font face="Century Gothic">Go to Main</font></a></p>
+    </div>
+    <div class="down_block">
+        <div class="copyright">
+            <font size="+0" color="azure" face="Century Gothic">
+                <p>SoftPK Corporation</p>
+                <p>© 2017-2018</p>
+            </font>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="../SystemFiles/Scripts/Update_time.js"></script>
+<script type="text/javascript" src="../SystemFiles/Scripts/ContestName_animation.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+1
+Ac{A;(,&A);(,);M(A=;A<;Aa){[A][A]=A;}M(A=A-;Ak;Ab){M(A=;A<;Aa){[A][A]=[A+][A];}[A][[A]-]=A;}M(A=;A<A;Aa){[A]=;}[]=;M(A=;A<A;Aa){M(A=;A<A;Aa){[A]=;}M(A=;A<A;Aa){M(A=;A<;Aa){A=[A][A];[A]p[A];O([A]k){[A]q;}}}M(A=;A<A;Aa){[A]=[A];}}A=;M(A=;A<A;Aa){A=(A+[A])%;}A(,A);S;}
+c{A{A;;(,(,&,&AA);;(,,););MM(AA=;=;AA<;<;A;AaAa)){[{[AA][][A[A]]=A=A;;}MM(AA=AA-;-;A;Akk;A;AbAb)){MM(AA=;=;AA<;<;A;AaAa)){[{[AA][][A[A]]=[=[AA+]+][][AA];;}[}[AA][][[[[A[A]]-]]=A=A;;}MM(AA=;=;AA<AA;A;AaAa)){[{[A[A]]=;;}[}[]]=;=;MM(AA=;=;AA<AA;A;AaAa)){MM(AA=;=;AA<AA;A;AaAa)){[{[A[A]]=;;}MM(AA=;=;AA<AA;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)){AA=[=[AA][][AA];;[AA]pp[AA];];O;O(([AA]k]k)){[{[AA]q]q;q;};}}}}MM(AA=;=;AA<AA;A;AaAa)){[{[A[A]]=[=[AA];];}}}AA=;=;MM(AA=;=;AA<AA;A;AaAa)){AA=(=(AA+[+[AA]))%;;}AA(,(,AA););S;S;

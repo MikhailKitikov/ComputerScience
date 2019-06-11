@@ -1,0 +1,11 @@
+1723244	Arkin	2	Math	1
+1723278	Berkin	4	Math	2
+1723213	Cerkin	2	Math	4
+1723225	Gerkin	3	Math	3
+1723225	Gerkina	3	Biology 1
+1723248	Ferkin	1	Math	1
+1723267	Erkin	4	Math	2
+1723219	Derkin	2	Math	3
+1723225	Geeeeerkina	3	Biology 1
+1723225	Geeeeerkina	3	Math 9
+1723225	Gerkina	3	Math 1

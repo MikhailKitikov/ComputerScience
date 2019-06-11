@@ -1,0 +1,11 @@
+5
+Jz(*){=(e);=(e);e=;e=;}
+Jz(*){=(e);=(e);M(A=;A<;Aa)M(A=;A<;Aa)e[A][A]=c%;e=;}
+Jz(*){A=;M(A=;A<;Aa)M(A=;A<;Aa)O(AkA+)Ap(e[A][A]);e=(A);}
+JzA(*,z&){O(l){=(e);e=;e=;}}
+JzA(*,z&){O(l){=(e);e=;e=;}}
+Jz((*)*){{=(=(ee);;=(=(ee););ee=;=;ee=;
+Jz((*)*){{=(=(ee);;=(=(ee););MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)ee[AA][][A[A]]=cc%;%;ee=;
+Jz((*)){AA=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)OO(AAkAA+)+)A)App(ee[AA][][AA])]););ee=(=(AA);
+JzAzA((*,*,z,z&z&)){OO(l(l)l){{=(=(ee););ee=;=;ee=;=;}
+JzAzA((*,*,z,z&z&)){OO(l(l)l){{=(=(ee););ee=;=;ee=;=;}

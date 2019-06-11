@@ -1,0 +1,272 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url('img/bg_main.jpg');
+}
+a {
+	text-decoration: none;
+}
+a:link {color: blue;}
+a:visited {color: blue;}
+a:active {color: red;}
+
+.main_image {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 1;
+}
+.overlay {
+	background-color: black;
+	opacity: 0.2;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 2;
+}
+.top_bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 10%;
+	z-index: 3;
+}
+.menu {
+	position: fixed;
+	right: 0;
+	width: 15%;
+	height: 40%;
+	top: 7%;
+	z-index: 3;
+}
+.main_menu {
+	position: fixed;
+	right: 0;
+	width: 15%;
+	height: 40%;
+	top: 24%;
+	align-content: center;
+	justify-content: center;
+	display: block;
+	z-index: 3;
+}
+.hidden_menu {
+	position: fixed;
+	right: 0;
+	width: 15%;
+	height: 40%;
+	top: 20%;  
+}
+.overlay1 {
+	position: fixed;
+	right: 0;
+	width: 16%;
+	height: 36%;
+	top: 20%;
+	z-index: 2;
+	opacity: 0.5;
+	background-color: black;
+}
+.menu_item {
+	color: white;
+	position: relative;
+	display: flex;
+	margin-bottom: 10%;
+	font-family: 'Comfortaa', cursive;
+	font-size: 18pt;
+	border-bottom: 1px solid white;
+	z-index: 3;
+}
+.menu_item:hover {
+	transform: translateX(5px);
+	transition: 0.2s ease-in;
+}
+.quote {
+	font-size: 30pt;
+	color: white;
+	position: absolute;
+	left: 50%;
+	top: 80%;
+	z-index: 2;
+	font-family: 'Amatic SC', cursive;
+	opacity: 0.5;
+}
+.mapMenu {
+	position: absolute;
+	right: 5%;
+	top: 5%;
+	z-index: 3;
+}
+
+.service_section {
+	position: absolute;
+	left: 0;
+	top: 100%;
+	width: 100%;
+	height: 70%;
+	background-color: white;
+}
+.services {
+	position: relative;
+	margin-top: 5%;
+	width: 100%;	
+}
+.service_item {
+	position: relative;	
+}
+.service_text {
+	position: relative;
+	font-family: 'Amatic SC', cursive;
+	font-size: 24pt;
+	color: gray;
+}
+.theader {
+	font-family: 'Amatic SC', cursive;
+	font-size: 36pt;
+	color: gray;
+	margin-bottom: 5%;
+}
+.company_info {
+	position: absolute;
+	left: 5%;
+	top: 5%;
+	width: 90%;
+	height: auto;
+	background-color: white;
+}
+.about_company {
+	position: relative;
+}
+.info_text {
+	font-family: 'Comfortaa', cursive;
+	font-size: 14pt;
+	color: black;
+	left: 10px;
+	text-align: justify;
+}
+.info_image {
+	width: 100%;
+}
+dt {
+	font-weight: bold;
+	padding-top: 10px;
+}
+dd {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+ol {
+	list-style: inside;
+}
+ol li {
+	padding-left: 10px;
+}
+.country_banner li {
+	padding-top: 20px;
+	padding-left: 20px;
+	text-indent: 20px;
+}
+.booking {
+	position: absolute;
+	width: 90%;
+	left: 5%;
+	top: 5%;
+	height: auto;
+	background-color: white;
+}
+.country_banner {
+	position: absolute;
+	background-color: white;
+	width: 90%;
+	height: 40%;
+	left: 5%;
+	top: 0;
+}
+.star {
+	position: absolute;
+	top: 63%;
+	right: -5%;
+	width: 25%;
+}
+.country_picture {
+	position: relative;
+	max-width: 1920px;
+	height: auto;
+	left: 0;
+	top: 0;
+	z-index: 2;
+	max-height: 40%;
+}
+.country_name {
+	color: black;
+	font-size: 100pt;
+	opacity: 0.7;
+	position: absolute;
+	left: 30%;
+	top: 30%;
+	font-family: "Amatic SC", cursive; 
+	z-index: 3;
+}
+.country_info {
+	position: relative;
+	font-family: "Comfortaa", cursive; 
+	font-size: 14pt;
+	z-index: 2;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+}
+.feedbacks {
+	background-color: lavender;
+	position: absolute;
+	top: 170%;
+	width: 100%;
+	display: flex;
+}
+.scrollUp {
+	position: fixed;
+	bottom: 5%;
+	right: 3%;
+	z-index: 10;
+	height: auto;
+}
+.scrollUp:hover {
+	animation: scroll-animate 2s linear;
+}
+@keyframes scroll-animate {
+  0% {
+    opacity: 1;
+  }   
+  25% {
+    opacity: 0.2;
+  } 
+  50% {
+    opacity: 1;
+  }  
+  100% {
+    opacity: 0.2;
+  }  
+}
+.scrollUp img {
+	width: 64px;
+	height: 64px;
+}
+.logo {
+	position: fixed;
+	left: 1%;
+	top: 1%;
+	width: 64px;
+	height: 64px;
+	z-index: 5;
+}
+.logo:hover {
+	transform: rotateZ(360deg);
+	transition: 0.5s ease-in;
+}

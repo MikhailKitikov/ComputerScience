@@ -1,0 +1,17 @@
+8
+Jz(*){=(e);=(e);M(A=;A<;Aa)M(A=;A<;Aa)e[A][A]=c%;e=;}
+Jz(*){=(e);=(e);e=;e=;e=;e=;}
+Jz(*,z&){O(l){=(e);e=;e=;=(e);e=;}}
+Jz(*,z&){O(l){=(e);e=;e=;e=;}}
+Jz(*){A=;=(e);M(A=;A<;Aa)M(A=;A<;Aa)O((A-Al)o((A-A)l-)){Ap(e[A][A]);}e=(A);}
+Jz(*){e=;M(A=;A<;Aa)M(A=;A<;Aa)O((e[A][A])%m){;}e=;}
+Jz(*){M(A=;A<;Aa){M(A=;A<;Aa){M(A=;A<;Aa){=(e[A][A]);=(e[A][A]);O(lnAmA){e=e+(A)+;;}}}:U;}}
+Jz(*){A=;A;M(A=;A<;Aa){M(A=;A<;Aa){A=(e[A][A]);O(A>A)A=A;;}e[A][]=(A);A=;}}
+Jz((*)*){{=(=(ee);;=(=(ee););MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)ee[AA][][A[A]]=cc%;%;ee=;
+Jz((*)*){{=(=(ee);;=(=(ee););ee=;=;ee=;=;ee=;=;ee=;
+Jz((*,*,z,z&z&)){OO(l(l)l){{=(=(ee););ee=;=;ee=;;=(=(ee););ee=;=;}
+Jz((*,*,z,z&z&)){OO(l(l)l){{=(=(ee););ee=;=;ee=;=;ee=;=;}
+Jz((*)){AA=;;=(=(ee););MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)O)O(((AA-A-All)o)o(((AA-AA)ll-)-))){A{App(ee[AA][][AA])]);;}ee=(=(AA);
+Jz((*)){ee=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;Aaa)O)O(((ee[AA][][AA]))%m%m)){;;}ee=;
+Jz((*)){MM(AA=;=;AA<;<;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)a){{=(=(ee[AA][][AA])]);;=(=(ee[AA][][AA])]););OO(llnAAmAmA)){ee=ee+(+(A(A))+;+;;;;};}}}}:}:U:U;U;}
+Jz((*)){AA=;=;AA;MM(AA=;=;AA<;<;A;AaAa)){MM(AA=;=;AA<;<;A;AaAa)){AA=(=(ee[AA][][AA])]););OO(AA>AA)AA=A=A;A;;;}ee[AA][][]]=(=(AA););AA=;=;}

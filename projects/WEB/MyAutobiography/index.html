@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Mike's Blog | Autobiography | Main page</title>
+	<link href="Font.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	<script type="text/javascript" src="JQuery.js"></script>
+	<script src="script.js"></script>
+</head>
+
+<body alink="#008080" vlink="#b5b5b5" link="#b5b5b5" style="background-image: url('img/pic.jpg') ;">
+	<div class="overlay" id="overlay"></div>
+
+	<div class="loaderArea">
+	   <div class="loader"><br><br><br><br><br>Loading...</div>
+	</div>
+	
+    <header>
+        <a href="index.html"><img class="home" src="home.png" title="Home page" alt="Home" /></a>
+    </header>	
+
+	<section id="home">
+		<nav class="navi__bar">
+			<ul class="menu_list">
+				<a href="my_city.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span>Мой город</span>
+							</div>
+						</div>
+					</li>
+				</a>
+				<a href="education.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span>Образование</span>
+							</div>
+						</div>
+					</li>
+				</a>
+				<a href="hobbies.html">
+					<li class="menu_item_bg">
+						<div class="menu__item">
+							<div class="menu__link" onclick="TimeDelay(this);">
+								<span>Увлечения</span>
+							</div>
+						</div>
+					</li>
+				</a>
+			</ul>
+		</nav>
+	</section>
+
+	<section id="aboutMe">
+		<div class="intro" id="intro">
+			<ul style="list-style-type: circle;">
+				<li><b>ФИО</b>: Китиков Михаил Вадимович</li>
+				<li><b>Родился</b>: 11.10.1999 г., Минск</li>
+				<li><b>Образование</b>:
+					<ol>
+						<li>
+							<b>Среднее:</b>
+						</li>
+							<ul style="list-style-type: square;">
+								<li>
+									Гимназия №192 15'
+								</li>
+								<li>
+									Лицей БГУ 17'
+								</li>
+							</ul>
+						<li>
+							<strong>Высшее:</strong>
+						</li>
+							БГУ, ФПМИ, Инфоматика
+					</ol>
+				</li>
+			</ul>
+			<br>
+			<center>
+				<hr width="70%">
+	            <form action="mailto:mikhail.kitikov@list.ru" method="post" enctype="text/plain">
+	             Your name:<br>
+	             <input type="text" align="right" placeholder="name" value="" size="30">
+	             <br>
+	             Message:<br>
+	             <textarea rows="5" cols="30" placeholder="text"></textarea>
+	             <br>
+	             <input type="submit" value="Send">
+	             <input type="reset" value="Reset">
+	             </form>
+	         </center>
+		</div>
+		    
+	</section>
+
+	<div class="footer">
+		<a href="mailto:mikhail.kitikov@list.ru"><span class="contact">✆ Contact me</span></a>
+		© Mikhail Kitikov 2018-2019&nbsp;&nbsp;&nbsp;
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mike's Travel | Tour Map</title>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+	<script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+	<div>
+		<a href="index.html"><img src="img/logo.png" alt="" class="logo"></a>
+	</div>
+	<section class="menu" onmouseenter="f1();" onmouseleave="f2();">
+		<div>
+			<img src="img/menu.png" alt="" style="position: fixed; width: 80px; right: 1%; top: 7%; z-index: 3; opacity: 0.5;">
+		</div>
+		<div id="hidden_menu" class="hidden_menu">
+			<ul class="main_menu" id="main_menu">
+				<a href="index.html"><li class="menu_item">Главная</li></a>
+				<a href="company.html"><li class="menu_item">О компании</li></a>
+				<a href="tours.html"><li class="menu_item">Каталог туров</li></a>
+				<a href="booking.html"><li class="menu_item">Бронирование</li></a>
+			</ul>	
+			<div class="overlay1"></div>
+		</div>
+	</section>
+
+	
+		<img src="img/map.png" alt="" width="1967px" height="963px" usemap="#toursmap" style="z-index: 4;">
+		<map name="toursmap">
+		    <area target="" alt="Великие озёра" title="Великие озёра" href="indonesia.html" coords="449,299,33" shape="circle">
+		    <area target="" alt="Торонто" title="Торонто" href="indonesia.html" coords="491,315,33" shape="circle">
+		    <area target="" alt="Нью-Йорк" title="Нью-Йорк" href="indonesia.html" coords="513,341,33" shape="circle">
+		    <area target="" alt="Ла-Пас" title="Ла-Пас" href="indonesia.html" coords="546,671,27" shape="circle">
+		    <area target="" alt="Асунсьон" title="Асунсьон" href="indonesia.html" coords="602,714,26" shape="circle">
+		    <area target="" alt="Рио-де-Жанейро" title="Рио-де-Жанейро" href="indonesia.html" coords="687,697,29" shape="circle">
+		    <area target="" alt="Амстердам" title="Амстердам" href="indonesia.html" coords="948,259,28" shape="circle">
+		    <area target="" alt="Прага" title="Прага" href="indonesia.html" coords="982,277,29" shape="circle">
+		    <area target="" alt="Вена" title="Вена" href="indonesia.html" coords="1007,285,31" shape="circle">
+		    <area target="" alt="Стокгольм" title="Стокгольм" href="indonesia.html" coords="1014,200,28" shape="circle">
+		    <area target="" alt="Рим" title="Рим" href="indonesia.html" coords="986,329,28" shape="circle">
+		    <area target="" alt="Варшава" title="Варшава" href="indonesia.html" coords="1036,259,25" shape="circle">
+		    <area target="" alt="Каир" title="Каир" href="indonesia.html" coords="1090,402,26" shape="circle">
+		    <area target="" alt="пустыня Сахара" title="пустыня Сахара" href="indonesia.html" coords="998,468,30" shape="circle">
+		    <area target="" alt="Кейптаун" title="Кейптаун" href="indonesia.html" coords="1021,767,29" shape="circle">
+		    <area target="" alt="Дели" title="Дели" href="indonesia.html" coords="1340,412,29" shape="circle">
+		    <area target="" alt="озеро Байкал" title="озеро Байкал" href="indonesia.html" coords="1504,247,33" shape="circle">
+		    <area target="" alt="Пекин" title="Пекин" href="indonesia.html" coords="1556,351,31" shape="circle">
+		    <area target="" alt="Индонезия" title="Индонезия" href="indonesia.html" coords="1549,590,31" shape="circle">
+		    <area target="" alt="Австралия" title="Австралия" href="indonesia.html" coords="1660,720,28" shape="circle">
+		    <area target="" alt="Новая Зеландия" title="Новая Зеландия" href="indonesia.html" coords="1860,821,30" shape="circle">
+		</map>
+		<p style="position: fixed;left: 40%; top: 3%;font: 400% 'Amatic SC'">Карта путешествий</p>
+</body>
+</html>

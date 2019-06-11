@@ -1,0 +1,384 @@
+/* Global  ////////////////////////////////////////////////////*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+}
+ul { 
+ 	padding: 0;
+    margin-left: 50px;
+}
+ol { 
+ 	padding: 0;
+    margin-left: 50px;
+}
+dd { 
+ 	padding: 0;
+    margin-left: 20px;
+}
+body {
+	font-family: 'Poiret One', cursive;
+	font-weight: 900;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;  
+} 
+
+/* Home button /////////////////////////////////*/
+
+.home {
+    position: fixed;
+    width: 38px;
+    height: 32px;
+    top: 1%;
+    left: 1%;
+    z-index: 2;
+}
+.home:hover {
+	animation: home-animate 1s linear;
+}
+
+@keyframes home-animate {
+  50% {
+    transform: rotateZ(360deg);
+  }
+
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+/* Overlay ////////////////////////*/
+
+.overlay {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	background-color: black; 
+	opacity: 0.5;
+	z-index: 2;
+}
+
+/* Intro ///////////////////////////////////////////////*/
+
+.intro {
+	position: fixed;
+	top: 20%;
+	left: 0%;
+	width: 35%;
+	font-size: 20px;
+	background-color: transparent; 
+	color: white; 
+	font-family: Poiret One;
+	padding: 0;
+	opacity: 0;
+	align-content: left;
+	padding-left: 0;
+	z-index: 2;
+}
+
+/* Navigation menu  ////////////////////////////////////////////////////*/
+
+.navi__bar {
+	top: 3%;
+	right: 3%;
+	position: fixed;
+  	margin: auto;
+	width: auto;
+	height: 80px;
+  	display: flex;
+  	z-index: 4;
+  	border-bottom: solid 1px black;
+  	justify-content: center;
+}
+.menu_list {
+	top: 3%;
+	right: 3%;
+	position: fixed;
+  	margin: auto;
+	width: auto;
+	height: 50px;
+  	display: flex;
+  	list-style-type: none;
+  	justify-content: center;
+  	z-index: 4;
+}
+.menu_item_bg {
+	color: #000;
+	margin-bottom: 0;
+  	position: relative;
+  	width: auto;
+  	height: 100%;
+  	margin-left: 30px;
+  	top: 0;
+  	left: 0;
+  	display: flex;
+  	justify-content: center;
+}
+.menu_item {
+	color: #b5b5b5;
+	position: relative;
+	width: 70px;
+	height: 50px;
+	align-content: center;
+}
+.menu_item a {
+	color: black;
+}
+.menu_item_bg:hover {
+	background: url("line.svg") no-repeat bottom right;
+	animation: wave-animate 0.3s forwards;
+}
+.menu__link {
+	color: #b5b5b5;
+	text-align: center;
+	font-size: 27px;
+  	margin-left: 0px; 
+  	position: relative;
+  	height: 100%;
+  	width: 100%;
+}
+.menu__item:hover {
+	animation: nav-animate 0.7s;
+	cursor: pointer;
+}
+.menu__item:hover .menu__link {
+	color: #008080;
+}
+
+@keyframes nav-animate {
+  	50% {
+		opacity: 0.5;
+		transform: translate3d(0, -20%, 0);
+	}
+	100% {
+		opacity: 1;
+		transform: translate3d(0, 0, 0);
+	}
+}
+@keyframes wave-animate {
+  0% {
+    background-position-x: 390px;
+  }
+}
+
+/* Background image  ////////////////////////////////////////////////////*/
+
+.img-bg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: scroll;
+}
+
+/* Footer  ////////////////////////////////////////////////////*/
+
+.footer {
+	position: absolute;
+	width: 100%;
+	height: 25px;
+	background-color: #111111;
+	justify-content: center;
+	text-align: right;
+	padding-top: 5px;
+	bottom: -30px;
+	color: #b5b5b5;
+	font-size: 15px;
+}
+.contact {
+	position: absolute;
+	left: 1%;
+	top: 10%;
+}
+.contact:hover {
+	color: #008080;
+}
+
+/* Loader ////////////////////////////////////////////////////*/
+
+.loaderArea {
+  background: linear-gradient(70deg, #3366CC 20%, #99CCFF 80%);
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right:0;
+  bottom:0;
+  z-index: 100;
+}
+.loader {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  left: 50%;
+  margin-left: -20px;
+  top: 50%;
+  margin-top: -20px;
+} 
+.loader:before,
+.loader:after {
+  content: "";
+  height: 40px;
+  width: 40px;
+  border: 8px solid #3366CC;
+  border-radius: 20px;
+  position: absolute;
+  top: 0;
+} 
+.loader:before {
+  animation: v-animate 2s infinite linear;
+}
+ 
+@keyframes v-animate {
+  0% {
+    transform: rotate(0) skew(0);
+  } 
+  100% {
+    transform: rotate(180deg) skew(360deg);
+  }
+}
+ 
+.loader:after {
+  animation: h-animate 2s infinite linear;
+}
+ 
+@keyframes h-animate {
+  0% {
+    transform: rotate(0) skew(0);
+  }   
+  100% {
+    transform: rotate(-180deg) skew(-360deg);
+  }
+}
+
+/* myTable //////////////////////////////////////////////////////////*/
+
+.myTable {
+	position: absolute;
+	left: 10%; 
+	right: 10%; 
+	width: 80%;
+	top: 12%;
+	height: auto;
+	background-color: #F5F5F5;
+	font-size: 20px;
+	padding: 20px;
+	table-layout: fixed;
+}
+.myTable td {
+	vertical-align: top;
+	width: 2%;
+}
+.tableImg:hover {
+	transform: scale(1.5);
+	transition: 0.3s ease-in;
+}
+.scrollUp {
+	position: fixed;
+	top: 90%;
+	right: 3%;
+	z-index: 10;
+	width: 2%;
+	height: auto;
+}
+.scrollUp:hover {
+	animation: scroll-animate 2s linear;
+}
+@keyframes scroll-animate {
+  0% {
+    opacity: 1;
+  }   
+  25% {
+    opacity: 0.2;
+  } 
+  50% {
+    opacity: 1;
+  }  
+  100% {
+    opacity: 0.2;
+  }  
+}
+.scrollUp img {
+	width: 64px;
+	height: 64px;
+}
+.mapMenu {
+	width: 400px;
+	height: 400px;
+	animation: map-animate 3s infinite linear;
+}
+.mapMenu:hover {
+	animation: none;
+}
+@keyframes map-animate {
+  0% {
+    transform: rotateZ(0deg);
+  } 
+  25% {
+    transform: rotateZ(10deg);
+  }   
+  50% {
+    transform: rotateZ(-10deg);
+  } 
+  100% {
+    transform: rotateZ(360deg);
+  } 
+}
+
+/* Education ////////////////*/
+
+.edulink:hover {
+	transform: translate(30px, 0);
+	transition: 0.3s ease-in;
+}
+
+/* Responsiveness //////////////////////////*/
+
+@media screen and (max-width: 600px){
+	.menu_list {
+		display: grid;
+		right: 0;
+	}
+	.home {
+		width: 19px;
+		height: 16px;
+	}
+	.navi__bar {
+		right: 0;
+	}
+	.menu__link {
+		font-size: 20px;
+	}
+	.mapMenu {
+		width: 200px;
+		height: 200px;
+	}
+	.intro {
+		font-size: 10px;
+	}
+	ul { 
+	 	padding: 0;
+	    margin-left: 10px;
+	}
+	ol { 
+	 	padding: 0;
+	    margin-left: 10px;
+	}
+}
+
+@media screen and (max-height: 550px){
+	.intro {
+		font-size: 15px;
+		top: 10%;
+	}
+	.intro form,
+	.intro hr {
+		display: none;
+	}
+}

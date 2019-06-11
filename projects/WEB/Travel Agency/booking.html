@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mike's Travel | Booking a tour</title>
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+	<script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+	<div>
+		<a href="index.html"><img src="img/logo.png" alt="" class="logo"></a>
+	</div>
+	<section class="menu" onmouseenter="f1();" onmouseleave="f2();">
+		<div>
+			<img src="img/menu.png" alt="" style="position: fixed; width: 80px; right: 1%; top: 7%; z-index: 3; opacity: 0.5;">
+		</div>
+		<div id="hidden_menu" class="hidden_menu">
+			<ul class="main_menu" id="main_menu">
+				<a href="index.html"><li class="menu_item">Главная</li></a>
+				<a href="company.html"><li class="menu_item">О компании</li></a>
+				<a href="tours.html"><li class="menu_item">Каталог туров</li></a>
+				<a href="booking.html"><li class="menu_item">Бронирование</li></a>
+			</ul>	
+			<div class="overlay1"></div>
+		</div>
+	</section>
+
+	<section style="font-family: 'Comfortaa', cursive; font-size: 14pt;">
+		<a name="book"></a>
+		<div class="booking">
+			<center><p class="theader">Забронировать тур</p></center>
+				<form action="" method="" enctype="text/plain" style="left: 5%; position: relative;">
+					<span style="position: relative;left: 10%; font-size: 16pt;">Заполните контактную информацию:</span> <br>
+		             ФИО:<br>
+		             <input type="text" align="right" placeholder="name" value="" size="30" required>
+		             <br><br>
+		             Возраст:<br>
+		             <input type="text" align="right" placeholder="age" value="" size="30" required>
+		             <br><br>
+		             Город:<br>
+		             <input type="text" align="right" placeholder="city" value="" size="30">
+		             <br><br>
+		             Телефон:<br>
+		             <input type="text" align="right" placeholder="number" value="" size="30" required>
+		             <br><br>
+		             E-mail:<br>
+		             <input type="text" align="right" placeholder="e-mail" value="" size="30" required>
+		             <br><br>
+		             <span style="position: relative;left: 10%; font-size: 16pt;">Выберите маршрут поездки:</span> <br><br>
+		             Выберите дату:<br> <input type="date" name="calendar" value="2018-04-08"><br><br>
+		             Выберите маршрут: <br>
+		             <select size="1" name="route[]">
+					    <option selected disabled>Выберите маршрут</option>
+					    <option value="route1">Великие озёра</option>
+					    <option value="route2">Торонто</option>
+					    <option value="route3">Нью-Йорк</option>
+					    <option value="route4">Ла-Пас</option>
+					    <option value="route5">Асунсьон</option>
+					    <option value="route6">Рио-де-Жанейро</option>
+					    <option value="route7">Амстердам</option>
+					    <option value="route8">Прага</option>
+					    <option value="route8">Вена</option>
+					    <option value="route10">Стокгольм</option>
+					    <option value="route11">Варшава</option>
+					    <option value="route12">Каир</option>
+					    <option value="route13">пустыня Сахара</option>
+					    <option value="route14">Кейптаун</option>
+					    <option value="route15">Дели</option>
+					    <option value="route16">озеро Байкал</option>
+					    <option value="route17">Пекин</option>
+					    <option value="route18">Индонезия</option>
+					    <option value="route19">Австралия</option>
+					    <option value="route20">Новая Зеландия</option>
+					 </select><br>
+		             <center><input type="submit" value="Оформить заявку" onclick="f3();">
+		             <input type="reset" value="Сбросить"></center> 
+	             </form>
+		</div>
+	</section>
+</body>
+</html>

@@ -1,0 +1,13 @@
+6
+Jz(*){=;ec;ec;eec;e=;A=e;A=e;=(,,A,A);M(A=;A<;Aa)M(A=;A<;Aa)[A][A]=;}
+Jz(*,AA,AA,I&){O([A][A]l){O(l){[A][A]=;=;}P{[A][A]=;=;}}}
+Jz(*,AA,AA,&,){([A][A]){:{ee(e(A,A),e,);;}:{ee(e(A,A),e,);;}}O(([A][]l[A+][])n([A+][]l[A+][])){O([A][]l){e=;}O([A][]l){e=;}}O(([A][]l[A+][])n([A+][]l[A+][])){O([A][]l){e=;}O([A][]l){e=;}}O(([A][]l[A+][])n([A+][]l[A+][])){O([A][]l){e=;}O([A][]l){e=;}}O(([][A]l[][A+])n([][A+]l[][A+])){O([][A]l){e=;}O([][A]l){e=;}}O(([][A]l[][A+])n([][A+]l[][A+])){O([][A]l){e=;}O([][A]l){e=;}}O(([][A]l[][A+])n([][A+]l[][A+])){O([][A]l){e=;}O([][A]l){e=;}}O(([A][A]l[A+][A+])n([A+][A+]l[A+][A+])){O([A][A]l){e=;}O([A][A]l){e=;}}O(([][]l[][])n([][]l[][])){O([][]l){e=;}O([][]l){e=;}}}
+Jz(*){e=;M(A=;A<;Aa)M(A=;A<;Aa)[A][A]=;ec;}
+Jz(*){e=;M(A=;A<;Aa)M(A=;A<;Aa)[A][A]=;ec;}
+Jz(*){ec;}
+Jz((*)*){{=;=;e;ecc;e;ecc;e;eeeecc;ee=;=;AA=ee;AA=e=e;;=(=(,(,,,,AA,AA););MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;AaAa))[AA][][A[A]]=;
+Jz((*,*,A,AAA,A,AAA,I,I&I&)){O{O(([AA][][AA]l]l)){OO(l(l)){[{[AA][][A[A]]=;;=;;}PP{[{[AA][][A[A]]=;;=;=;};}}
+Jz((*,*,A,AAA,A,AAA,&,&,&,)){(([AA][][AA])){::{e{eee(ee(AA,AA),),e,e,,););;;}::{e{eee(ee(AA,AA),),e,e,,););;;;}}}O}O(O((([AA][[]ll[AA+]+][[])])n)n(([AA+]+][[]ll[AA+]+][[])]))){O{O(([AA][[]l]l)){ee=;;}O}O(([AA][[]l]l)){ee=;=;}}}O}O(O((([AA][[]ll[AA+]+][[])])n)n(([AA+]+][[]ll[AA+]+][[])]))){O{O(([AA][[]l]l)){ee=;;}O}O(([AA][[]l]l)){ee=;=;}}}O}O(O((([AA][[]ll[AA+]+][[])])n)n(([AA+]+][[]ll[AA+]+][[])]))){O{O(([AA][[]l]l)){ee=;;}O}O(([AA][[]l]l)){ee=;=;}}}O}O(O(((([[][][AA]l]l[[][][AA+]+])])n)n(n([[][][AA+]+]l]l[[][][AA+]+])]))){O{O(O([[][][AA]l]l)){ee=;;}O}O(O([[][][AA]l]l)){ee=;=;}}}O}O(O(((([[][][AA]l]l[[][][AA+]+])])n)n(n([[][][AA+]+]l]l[[][][AA+]+])]))){O{O(O([[][][AA]l]l)){ee=;;}O}O(O([[][][AA]l]l)){ee=;=;}}}O}O(O(((([[][][AA]l]l[[][][AA+]+])])n)n(n([[][][AA+]+]l]l[[][][AA+]+])]))){O{O(O([[][][AA]l]l)){ee=;;}O}O(O([[][][AA]l]l)){ee=;=;}}}O}O(O((([AA][][AA]ll[AA+]+][][AA+]+])])n)n(([AA+]+][][AA+]+]ll[AA+]+][][AA+]+])]))){O{O(([AA][][AA]l]l)){ee=;;}O}O(([AA][][AA]l]l)){ee=;=;}}}O}O(O(((([[][[]l]l[[][[])])n)n(n([[][[]l]l[[][[])]))){O{O(O([[][[]l]l)){ee=;;}O}O(O([[][[]l]l)){ee=;=;};}}
+Jz((*)){ee=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;AaAa))[AA][][A[A]]=;=;e;ecec;
+Jz((*)){ee=;=;MM(AA=;=;AA<;<;A;Aaa)MM(AA=;=;AA<;<;A;AaAa))[AA][][A[A]]=;=;e;ecec;
+Jz((*)){e{ecec;
