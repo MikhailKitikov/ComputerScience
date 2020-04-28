@@ -1,4 +1,0 @@
-﻿  Iterator.cpp
-d:\computer science\2 course\c++\labs\_kr\kitikov_queue_array\kitikov_4a\resource.h(17): warning C4005: 'IDC_SIZE': macro redefinition
-  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(10323): note: see previous definition of 'IDC_SIZE'
-  Kitikov_4a.vcxproj -> D:\Computer Science\2 course\C++\Labs\_KR\Kitikov_Queue_array\Debug\Kitikov_4a.exe

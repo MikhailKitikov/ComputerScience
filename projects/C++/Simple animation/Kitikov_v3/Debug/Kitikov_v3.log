@@ -1,6 +1,0 @@
-﻿  Source.cpp
-d:\informatics\bsu\win32 api\projects\kitikov_lab5\kitikov_v3\source.cpp(232): warning C4018: '<': signed/unsigned mismatch
-d:\informatics\bsu\win32 api\projects\kitikov_lab5\kitikov_v3\source.cpp(445): warning C4018: '<': signed/unsigned mismatch
-d:\informatics\bsu\win32 api\projects\kitikov_lab5\kitikov_v3\source.cpp(362): warning C4101: 'tempVal': unreferenced local variable
-  Kitikov_v3.vcxproj -> D:\Informatics\BSU\Win32 API\Projects\Kitikov_Lab5\Debug\Kitikov_v3.exe
-  Kitikov_v3.vcxproj -> D:\Informatics\BSU\Win32 API\Projects\Kitikov_Lab5\Debug\Kitikov_v3.pdb (Partial PDB)
